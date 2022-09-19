@@ -1,5 +1,5 @@
 - 😈 Hi, I’m @CAScyber!
-- 💯 I am interested in security and creative programming.
+- 💯 I am interested in security and web programming.
 - 🤓 I know HTML and PHP primarily, but also some JavaScript, JQuery, AJAX (you know).
 - 📫 Reach me at jgtovesonline@gmail.com
 
